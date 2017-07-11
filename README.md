@@ -17,6 +17,7 @@ $ python .\JumbT-Rex.py
  - make it work when it is night
  - take screen output efficiently throught not windows os call
  - Too in the future-> Implement genetic algorithm to find best solution
+ 
 License
 ----
 
