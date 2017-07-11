@@ -4,7 +4,7 @@
 
 # Simple game for fun!
 
-  - Close program when it is nigh :)
+  - Close program when it is nigh :)(<kbd>Ctrl</kbd> + <kbd>c</kbd> 
 
   
   ```sh
