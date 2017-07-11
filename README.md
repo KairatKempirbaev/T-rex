@@ -5,10 +5,10 @@
 # Simple game for fun!
 
   - Close program when it is nigh :)
-  - Server should be launched before connecting clients
+
   
   ```sh
-$ python server.py
+$ python .\JumbT-Rex.py
 ```
 
 ### Todos
